@@ -1,7 +1,6 @@
 <!-- Add logo -->
 <!--  ![App Logo](https://i.stack.imgur.com/ARgpq.jpg) -->
 
-![data-storyteller](https://socialify.git.ci/prakharrathi25/data-storyteller/image?description=1&descriptionEditable=Automated%20tool%20for%20data%20analysis%2C%20visualization%2C%20feature%20selection%2C%20machine%20learning%20and%20inference%20in%20one%20application!&font=Bitter&forks=1&logo=https%3A%2F%2Fcamo.githubusercontent.com%2Fba46960c1170c1d56a4fcfdd375be6b13852795e31523ea76bde3366f021c25d%2F68747470733a2f2f692e737461636b2e696d6775722e636f6d2f41526770712e6a7067&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
@@ -11,7 +10,7 @@
 _**ONE STOP SOLUTION FOR ALL YOUR DATA NEEDS**_ 
 ## Introduction 
 
-As per Gartner [2], the analytics and business intelligence platform market has transitioned from the visual data discovery era to the augmented era. Data and analytics leaders/administrators should begin piloting capabilities and competencies that enable the “augmented consumer”.
+As per Gartner, the analytics and business intelligence platform market has transitioned from the visual data discovery era to the augmented era. Data and analytics leaders/administrators should begin piloting capabilities and competencies that enable the “augmented consumer”.
 
 With the technology advancements, the organisation today has the pre-eminence of taking data driven decisions and strategize their planning, forecasts based on the same. A profusion of business users do not have time to analyze the data and then secure noteworthy insights. And there are gaps betwixt how the tool produces an output and how the business user can exploit it to interpret it. In accompaniment, it needs a admirable domain knowledge to build business insights from data. Not every user is a business expert. Given a snapshot of data, we would like to fabricate a system which can verbalise a story from the data. The story includes the automation in the sense of being driven by the data, context and personal preferences. In this case, it solves both the problems of the tool usage as well as guiding the user with the data driven intelligence to make business decision. The whole corollary is driven by outcome and effectiveness.
 
@@ -85,11 +84,7 @@ $ pip install -r requirements.txt
 $ streamlit run app.py
 ```
 
-## Other Content
 
-**[Video Walkthrough](https://drive.google.com/file/d/1C-WMgJ6tLfVMAz4mS-OQF9-9-0GhgSWJ/view?usp=sharing)**
-
-**[Presentation](https://drive.google.com/file/d/1vlmXN_wNQdf6Y_hpVKV2QD1ub80izIiK/view?usp=sharing)**
 
 ## 🤝 How to Contribute? [3]
 
@@ -104,10 +99,9 @@ $ streamlit run app.py
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/u/38958532?v=4" width="100px;" alt=""/><br /><sub><b>Prakhar Rathi</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mpLogics"><img src="https://avatars.githubusercontent.com/u/48443496?v=4" width="100px;" alt=""/><br /><sub><b>Manav Prabhakar</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/salilsaxena"><img src="https://avatars.githubusercontent.com/u/54006908?v=4" width="100px;" alt=""/><br /><sub><b>Salil Sxena</b></sub></a><br /></td> 
-  </tr>
+    <td align="center"><a href="https://github.com/vishalsingh17"><img src="https://avatars.githubusercontent.com/u/55878408?s=400&u=55bd0c70828a4fe8b828ac3f9099ec7faa1b9593&v=4" width="100px;" alt=""/><br /><sub><b>Vishal Singh</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ashishgarg052"><img src="https://avatars.githubusercontent.com/u/48443496?v=4" width="100px;" alt=""/><br /><sub><b>Ashish Garg</b></sub></a><br /></td>
+
 </table>
 
 ## References 
@@ -121,6 +115,6 @@ $ streamlit run app.py
 
 ## Contact
 
-For any feedback or queries, please reach out to [prakharrathi25@gmail.com](prakharrathi25@gmail.com).
+For any feedback or queries, please reach out to [vishal170997@gmail.com](vishal170997@gmail.com).
 
-Note: The project is only for education purposes, no plagiarism is intended.
+Note: The project is only for education purposes.
